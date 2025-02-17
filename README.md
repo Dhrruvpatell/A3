@@ -33,3 +33,33 @@ Follow coding standards and submit a pull request for review
 Include detailed commit messages
 
 Contact Information: Reach out via dpatel9436@conestogac.on.ca
+
+
+
+License note in README.md:
+
+The Apache License 2.0 was chosen because it allows users to freely use, modify, and distribute the project while requiring attribution and protecting contributors from liability.
+
+1d. Issue Tracker
+
+An issue tracker has been set up in the repository. One issue has been created:
+
+Issue Title: Enhance Leaderboard Sorting Algorithm
+
+Description: The current leaderboard does not sort based on user activity weightings. Implement a more dynamic ranking algorithm to factor in challenge completion rates and consistency.
+
+1e. Project Wiki
+
+An article is available in the project wiki explaining the Version Control Strategy and why GitHub was chosen over other tools:
+
+Type of Version Control Used: Git (Distributed VCS)
+
+Top 3 Reasons for Choosing GitHub:
+
+Collaborative Features – Easy branching, pull requests, and project management.
+
+Continuous Integration Support – GitHub Actions streamline CI/CD workflows.
+
+Widespread Community Adoption – Large developer community with extensive resources and integrations.
+
+
