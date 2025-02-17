@@ -32,4 +32,4 @@ Follow coding standards and submit a pull request for review
 
 Include detailed commit messages
 
-Contact Information: Reach out via support@fitquest.com
+Contact Information: Reach out via dpatel9436@conestogac.on.ca
